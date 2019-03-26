@@ -64,6 +64,18 @@ input, textarea {
   margin: 10px 0;
 }
 
+/*  classes */
+
+.darkTheme {
+  background-color: darkgray;
+  color: white;
+}
+
+.button {
+  width: 100px;
+  margin: 5px auto;
+}
+
 .mainTitle {
   align-self: center;
 }
