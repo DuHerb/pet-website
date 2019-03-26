@@ -71,6 +71,11 @@ input, textarea {
   color: white;
 }
 
+.highlite {
+  border: 2px solid red;
+  background-color: yellow;
+}
+
 .button {
   width: 100px;
   margin: 5px auto;

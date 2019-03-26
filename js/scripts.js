@@ -5,4 +5,8 @@ $(function(){
   $("#lightButton").click(function(){
     $("body").removeClass("darkTheme");
   });
+
+  $('p').click(function(){
+    $(this).toggleClass("highlite");
+  });
 });
